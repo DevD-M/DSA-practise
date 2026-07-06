@@ -19,4 +19,4 @@ public:
     }
 };
 
-//monotonic decreasing stack
+//monotonic decr stack
